@@ -59,7 +59,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais já trabalhei:
 Aqui neste portfólio, você encontrará alguns dos meus projetos mais recentes e relevantes:
 
 - [**Portfólio Pessoal**](https://raphael-machado-silva.github.io/portifolio_padrao/) - Meu portfólio onde mostro meus trabalhos e habilidades.
-- [**Projetos PHP & WordPress**](#) - Uma coleção dos projetos que realizei com PHP e WordPress, incluindo sites dinâmicos e personalizados.
 
 ---
 
