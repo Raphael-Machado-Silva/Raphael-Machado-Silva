@@ -10,7 +10,9 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Olá! Meu nome é **Raphael Machado** e sou um estudante apaixonado por tecnologia e programação. Atualmente estou no 4º semestre do **Bacharelado em Ciência da Computação** e venho estudando e trabalhando na área de programação há **2 anos**. Tenho um forte interesse por **desenvolvimento front-end** e sempre estou em busca de aprender novas tecnologias para expandir minhas habilidades.
+Olá! Meu nome é **Raphael Machado** e sou um estudante apaixonado por tecnologia e programação. Atualmente estou no 4º semestre do **Bacharelado em Ciência da Computação** e venho estudando e trabalhando na área de programação há **2 anos**. Tenho um forte interesse por **desenvolvimento front-end**, **PHP** e **WordPress**, além de sempre buscar aprender novas tecnologias para expandir minhas habilidades.
+
+Além disso, possuo experiência prática com PHP e WordPress, tendo realizado diversos **projetos** e **cursos** nessas tecnologias, onde pude aprimorar minha capacidade de criar sites dinâmicos e personalizados.
 
 ---
 
@@ -29,6 +31,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais já trabalhei:
   <!-- Design -->
   <img src="https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
   
+  <!-- PHP & WordPress -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
+
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
 
@@ -44,6 +50,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais já trabalhei:
 - **Design** de interfaces com **Figma**.
 - Avançando no aprendizado de **Python**.
 - **Melhoria contínua do inglês** (nível intermediário).
+- **PHP** e **WordPress** (estudo e desenvolvimento de sites dinâmicos e personalizados).
 
 ---
 
@@ -52,7 +59,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais já trabalhei:
 Aqui neste portfólio, você encontrará alguns dos meus projetos mais recentes e relevantes:
 
 - [**Portfólio Pessoal**](https://raphael-machado-silva.github.io/portifolio_padrao/) - Meu portfólio onde mostro meus trabalhos e habilidades.
-
+- [**Projetos PHP & WordPress**](#) - Uma coleção dos projetos que realizei com PHP e WordPress, incluindo sites dinâmicos e personalizados.
 
 ---
 
@@ -67,3 +74,4 @@ Aqui neste portfólio, você encontrará alguns dos meus projetos mais recentes 
 ---
 
 <p align="center">🎯 Sempre buscando aprender mais e contribuir com a comunidade!</p>
+
