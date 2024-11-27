@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Olá! Meu nome é **Raphael Machado** e sou um estudante apaixonado por tecnologia e programação. Atualmente estou no 4º semestre do **Bacharelado em Ciência da Computação** e venho estudando e trabalhando na área de programação há **2 anos**. Tenho um forte interesse por **desenvolvimento front-end**, **PHP** e **WordPress**, além de sempre buscar aprender novas tecnologias para expandir minhas habilidades.
+Olá! Meu nome é **Raphael Machado** e sou um estudante apaixonado por tecnologia e programação. Atualmente estou no 4º semestre do **Bacharelado em Ciência da Computação** e venho estudando e trabalhando na área de programação há **2 anos**. Tenho um forte interesse por **desenvolvimento front-end**, **Design**, **APIs** e **Banco de Dados**, além de sempre buscar aprender novas tecnologias para expandir minhas habilidades.
 
-Além disso, possuo experiência prática com PHP e WordPress, tendo realizado diversos **projetos** e **cursos** nessas tecnologias, onde pude aprimorar minha capacidade de criar sites dinâmicos e personalizados.
+Além disso, possuo experiência prática com os temas listados, tendo realizado diversos **projetos** e **cursos** nessas tecnologias, onde pude aprimorar minha capacidade de criar sites dinâmicos e personalizados.
 
 ---
 
