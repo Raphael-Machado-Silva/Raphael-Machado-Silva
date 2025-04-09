@@ -1,4 +1,7 @@
-![Header]([https://capsule-render.vercel.app/api?type=waving&height=250&color=blue&text=My%20GitHub&fontColor=ffff](https://capsule-render.vercel.app/api?type=waving&height=250&color=ffff&text=My%20GitHub&fontColor=494949))
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=ffff&text=My%20GitHub&fontColor=494949" alt="header" />
+</p>
+
 
 <h1 align="center">👋 Olá, eu sou Raphael Machado</h1>
 
