@@ -1,4 +1,5 @@
-https://capsule-render.vercel.app/api?type=waving&height=250&color=blue&text=My%20GitHub&fontColor=ffff
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=blue&text=My%20GitHub&fontColor=ffff)
+
 <h1 align="center">👋 Olá, eu sou Raphael Machado</h1>
 
 <p align="center">
